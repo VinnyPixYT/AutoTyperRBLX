@@ -28,7 +28,7 @@ ENSURE YOU HAVE PYTHON INSTALLED FOR THE ENTIRETY REST OF THE PROCESS!
 #5. Type cd /d "extracted folder destination" (don't include these things ("))
 
 
-#6: Type "pip install -r requirements.txt". Keep the command prompt window open, feel free to close it when the process successfully finishes.
+#6: Type "pip install -r requirements.txt". When it's finished, install Tesserect-OCR from this seperate repo: https://github.com/UB-Mannheim/tesseract. Keep the command prompt window open, feel free to close it when the process successfully finishes.
 
 
 #7. Open the "autotyper.py" file in any code editor, whether it be IDLE, Virtual Studio Code, etc.
