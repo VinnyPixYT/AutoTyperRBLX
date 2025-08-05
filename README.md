@@ -22,6 +22,7 @@
 ### 1. Download the Code
 - Go to the [Releases](../../releases) section of this repo.
 - Click **`VinnyPixTypingTools_Setup.exe`** to begin the download.
+- (NOTE: You will need Tesseract-OCR and the official Microsoft Captions app.)
 
 ### 2. Run the Installer
 - Once downloaded, open it via your browser or File Explorer.
