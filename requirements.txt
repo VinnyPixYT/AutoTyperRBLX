@@ -1,6 +1,7 @@
-keyboard==0.13.5
-pyautogui==0.9.54
-opencv-python==4.8.1.78
-pytesseract==0.3.10
-numpy==1.26.0
-pywin32==306; sys_platform == 'win32'
+pyautogui
+opencv-python
+pytesseract
+keyboard
+pywin32
+numpy
+pillow
