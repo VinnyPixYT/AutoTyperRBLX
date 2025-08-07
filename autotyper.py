@@ -63,7 +63,7 @@ def on_right_ctrl_press(event):
         
         # Configure Tesseract to detect words with their positions
         custom_config = r'--oem 3 --psm 6'
-        pytesseract.pytesseract.tesseract_cmd = r"C:\Users\VinnyPixYT\AppData\Local\Programs\Tesseract-OCR\tesseract.exe"
+        pytesseract.pytesseract.tesseract_cmd = r"%localappdata%\Programs\Tesseract-OCR\tesseract.exe"
         
         # Get all words with their positions
         data = pytesseract.image_to_data(thresh, config=custom_config, output_type=pytesseract.Output.DICT)
